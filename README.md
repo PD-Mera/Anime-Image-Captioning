@@ -12,6 +12,11 @@ Install libraries
 pip install -r requirements.txt
 ```
 
+## TODO
+
+- [ ] Finetune model
+- [ ] Using more model of OFA 
+
 ## Prepare
 
 ### Pretrained weight
