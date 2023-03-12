@@ -16,6 +16,7 @@ pip install -r requirements.txt
 
 - [ ] Finetune model
 - [ ] Using more model of OFA 
+- [ ] Add infer file to easy use
 
 ## Prepare
 
