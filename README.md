@@ -22,7 +22,7 @@ pip install -r requirements.txt
 
 ### Pretrained weight
 
-In this project, I used [Finetuned base checkpoint for Caption on COCO]() in [checkpoints.md](./checkpoints.md), you can use any model of your choice
+In this project, I used [Finetuned base checkpoint for Caption on COCO](https://ofa-beijing.oss-cn-beijing.aliyuncs.com/checkpoints/caption_base_best.pt) in [checkpoints.md](./checkpoints.md), you can use any model of your choice
 
 ### Input file
 
